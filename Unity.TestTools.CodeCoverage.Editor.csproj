@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{c84a81ef-0ff8-bffd-90f6-ddf7cc132ac1}</ProjectGuid>
+    <ProjectGuid>{bb266015-2cd3-4807-1455-0cee8bf8aeef}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -333,10 +333,10 @@
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.8f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
      </Reference>
      <Reference Include="nunit.framework">
-     <HintPath>C:\Users\serha\Desktop\RigidBodyCar\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+     <HintPath>C:\Users\serha\Desktop\Unity Git Project\RealisticCarMechanics\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
      </Reference>
      <Reference Include="ReportGeneratorMerged">
-     <HintPath>C:\Users\serha\Desktop\RigidBodyCar\Library\PackageCache\com.unity.testtools.codecoverage@1.0.1\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
+     <HintPath>C:\Users\serha\Desktop\Unity Git Project\RealisticCarMechanics\Library\PackageCache\com.unity.testtools.codecoverage@1.0.1\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
      </Reference>
      <Reference Include="mscorlib">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.8f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
@@ -716,31 +716,31 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{7b9092d9-62bd-dcff-02f0-720835a5bc07}</Project>
+      <Project>{725ecca7-e9ae-d927-1617-6b27a9df55e9}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{23078b38-e22d-61b4-4f48-c10cd91ab4ec}</Project>
+      <Project>{260eb45d-1249-6413-2664-64e3794b92c3}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj">
-      <Project>{3ceb0afb-66af-dbbf-3849-dfd926399dcc}</Project>
+      <Project>{94cc5778-dc71-2a9a-7e2f-cf4ee4be74f1}</Project>
       <Name>Unity.TestTools.CodeCoverage.Editor.OpenCover.Model</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj">
-      <Project>{78c69989-0166-ceae-70de-be7d5ddf858b}</Project>
+      <Project>{fb91c877-09c0-0a1f-bc67-e67d1ed7b9ea}</Project>
       <Name>Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Settings.Editor.csproj">
-      <Project>{a687b020-c5f8-73d1-3c27-349fc4aef259}</Project>
+      <Project>{15ca94e5-3292-7cad-13f7-6320e3e70cc5}</Project>
       <Name>Unity.Settings.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{29a4b1df-898e-3643-1249-4742b9358103}</Project>
+      <Project>{41e28c02-6125-53bd-0576-cafd68fb8d60}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{4836d29e-bc4d-4f2b-fb51-87ad80a5eba0}</Project>
+      <Project>{a3d943d3-f709-bdf9-effa-b783a4a037e9}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>
